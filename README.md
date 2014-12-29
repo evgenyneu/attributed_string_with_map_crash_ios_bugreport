@@ -1,4 +1,4 @@
-# iOS crashed when using NSAttributedString with map view in simulator
+# iOS crashed when using NSAttributedString NSTextEffectLetterpressStyle with map view in simulator
 
 This repository was created for Apple bugreport.
 
