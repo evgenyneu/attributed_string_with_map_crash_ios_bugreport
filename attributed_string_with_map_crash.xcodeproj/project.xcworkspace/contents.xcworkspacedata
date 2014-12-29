@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:attributed_strgin_with_map_crash.xcodeproj">
+      location = "self:attributed_string_with_map_crash.xcodeproj">
    </FileRef>
 </Workspace>
